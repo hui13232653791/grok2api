@@ -14,7 +14,7 @@ region = "aws:us-east-1"
 binding = "DB"
 database_name = "grok2api"
 # Filled by CI / your first deployment bootstrap.
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "c989138f-0155-4456-bf35-e1c40d8201a9"
 migrations_dir = "migrations"
 
 [[kv_namespaces]]
